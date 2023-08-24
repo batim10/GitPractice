@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Git practice project
 
 This is a testing project for learning Git.
