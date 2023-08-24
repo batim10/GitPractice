@@ -1,0 +1,5 @@
+#Git practice project
+
+This is a testing project for learning Git.
+
+This is for testing purposes only
